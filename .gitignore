@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Raw and cleaned datasets
+Data/Raw/
+Data/Cleaned/
+
+# Jupyter temporary files
+*.log
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
