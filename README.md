@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An end-to-end e-commerce analytics project using the Olist Brazilian E-Commerce dataset.
+An end-to-end e-commerce analytics project using the Olist Brazilian E-Commerce Public Dataset.
 
 The goal is to analyze business performance, customer retention, and delivery efficiency to identify factors associated with customer satisfaction and repeat purchases.
 
@@ -10,21 +10,21 @@ The goal is to analyze business performance, customer retention, and delivery ef
 
 1. What are the revenue and order performance trends?
 2. How many customers make repeat purchases?
-3. Does late delivery relate to lower customer review scores?
-4. Which sellers, products, and locations have delivery challenges?
+3. Is late delivery associated with lower customer review scores?
+4. Which sellers, products, and locations experience delivery challenges?
 5. What could be the potential financial benefit of improving delivery performance?
 
 ## Tools & Technologies
 
-- Python – Pandas, NumPy, SciPy, Matplotlib, Seaborn
-- PostgreSQL – Data modeling and advanced SQL analysis
-- Power BI – Interactive dashboards and business insights
-- PowerPoint/PDF – Executive presentation
-- Git & GitHub – Version control
+- **Python:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **PostgreSQL:** Data modeling and advanced SQL analysis
+- **Power BI:** Interactive dashboards and business insights
+- **PowerPoint/PDF:** Executive presentation
+- **Git & GitHub:** Version control
 
 ## Dataset
 
-Olist Brazilian E-Commerce Public Dataset
+**Olist Brazilian E-Commerce Public Dataset**
 
 Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 

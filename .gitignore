@@ -2,22 +2,41 @@
 # Python
 __pycache__/
 *.py[cod]
+*.so
 .ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python environments
 .venv/
 venv/
-
-# Environment variables
+env/
+ENV/
 .env
+.envrc
 
-# Raw and cleaned datasets
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipython/
+
+# Environment and secrets
+.streamlit/secrets.toml
+
+# Project datasets - do not upload
 Data/Raw/
 Data/Cleaned/
 
-# Jupyter temporary files
+# Temporary and log files
 *.log
+*.tmp
 
 # macOS
 .DS_Store
 
-# Temporary files
-*.tmp
+# VS Code
+# .vscode/
